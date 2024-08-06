@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.postimg.cc/GpRFrTNN/1.jpg",
+    "title": "Spicy Thai Noodles",
+    "description": "Delicious noodles with a spicy Thai twist.",
+    "cooking_time": 30,
+    "calories": 450,
+    "ingredients": ["noodles", "peanut sauce", "soy sauce", "garlic", "chili flakes", "green onions", "cilantro"]
+  },
+  {
+    "id": 2,
+    "image": "https://i.postimg.cc/k4XWR37v/2.jpg",
+    "title": "Cheesy Pizza",
+    "description": "Classic cheesy pizza with a golden crust.",
+    "cooking_time": 20 ,
+    "calories": 800,
+    "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "olive oil", "basil"]
+  },
+  {
+    "id": 3,
+    "image": "https://i.postimg.cc/SsTCWTsF/3.jpg",
+    "title": "Grilled Chicken Salad",
+    "description": "Healthy salad topped with grilled chicken.",
+    "cooking_time": 15,
+    "calories": 300,
+    "ingredients": ["chicken breast", "mixed greens", "cherry tomatoes", "cucumber", "olive oil", "lemon juice"]
+  },
+  {
+    "id": 4,
+    "image": "https://i.postimg.cc/k57bL3RP/4.jpg",
+    "title": "Beef Tacos",
+    "description": "Tacos filled with savory beef and fresh toppings.",
+    "cooking_time": 25,
+    "calories": 500,
+    "ingredients": ["ground beef", "taco shells", "lettuce", "cheese", "salsa", "avocado"]
+  },
+  {
+    "id": 5,
+    "image": "https://i.postimg.cc/YS8WHnQG/5.jpg",
+    "title": "Veggie Stir-Fry",
+    "description": "A mix of vegetables stir-fried in a tangy sauce.",
+    "cooking_time": 20,
+    "calories": 350,
+    "ingredients": ["broccoli", "bell peppers", "carrots", "soy sauce", "ginger", "garlic", "sesame oil"]
+  },
+  {
+    "id": 6,
+    "image": "https://i.postimg.cc/bNbLhPrZ/6.jpg",
+    "title": "Chocolate Cake",
+    "description": "Rich and moist chocolate cake with frosting.",
+    "cooking_time": 45 ,
+    "calories": 600,
+    "ingredients": ["flour", "cocoa powder", "sugar", "eggs", "butter", "baking powder", "milk"]
+  },
+  {
+    "id": 7,
+    "image": "https://i.postimg.cc/3xFBkZg7/7.jpg",
+    "title": "Pasta Carbonara",
+    "description": "Creamy pasta carbonara with bacon bits.",
+    "cooking_time": 25,
+    "calories": 700,
+    "ingredients": ["pasta", "eggs", "parmesan cheese", "bacon", "black pepper", "garlic"]
+  },
+  {
+    "id": 8,
+    "image": "https://i.postimg.cc/yN6TcSPR/8.jpg",
+    "title": "Mango Smoothie",
+    "description": "Refreshing mango smoothie with a hint of lime.",
+    "cooking_time": 10,
+    "calories": 200,
+    "ingredients": ["mango", "yogurt", "honey", "lime juice", "ice cubes"]
+  },
+  {
+    "id": 9,
+    "image": "https://i.postimg.cc/9MrtN5sF/9.jpg",
+    "title": "Avocado Toast",
+    "description": "Toasted bread topped with creamy avocado spread.",
+    "cooking_time": 10,
+    "calories": 250,
+    "ingredients": ["bread", "avocado", "lemon juice", "salt", "pepper", "red pepper flakes"]
+  },
+  {
+    "id": 10,
+    "image": "https://i.postimg.cc/LXwkcQMk/10.jpg",
+    "title": "Blueberry Pancakes",
+    "description": "Fluffy pancakes filled with fresh blueberries.",
+    "cooking_time": 20,
+    "calories": 400,
+    "ingredients": ["flour", "milk", "eggs", "blueberries", "baking powder", "sugar", "butter"]
+  }
+]
